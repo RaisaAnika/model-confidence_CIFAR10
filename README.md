@@ -27,3 +27,4 @@ Exclusion Oracle generation
 Attack on the oracle and attack accuracy visualization
 
 
+The additional notebook : CIS545_Fall22_ModelConfidence_increased_epoch.ipynb is for the purpose of displaying how increasing the iterations while training the model helps in improving privacy.
