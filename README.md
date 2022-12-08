@@ -1,7 +1,7 @@
 # model-confidence_CIFAR10
 
 Machine Learning is a part of every industry accross the worlds and thereby also imapcts our everyday lives. Though most of the times the beneficial side of these technologies are shown, yet some adversaries rises. Once such adversary is the leakage of sensitive data
-In the python notebook : CIS545_Fall22_ModelConfidence_Main.ipynb 
+In the python notebook : CIS545_Fall22_ModelConfidence.ipynb 
 
 CIFAR 10 dataset has been used to establish a mean of model securiry.
 The aim was to divide the member data into 5 disjoint set and run them through a base model and derive their prediction confidence. 
