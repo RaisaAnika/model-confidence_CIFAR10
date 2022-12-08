@@ -9,7 +9,7 @@ The model which resulted in a higher prediction accuracy was then eliminated fro
 
 The afore mentioned notebook can be ran sequentially and has been sectioned as below:
 
-
+Relavent libraries installations::
 Library Imports
 Load Dataset - CIFAR 10
 Data Explorations & Pre-processing
